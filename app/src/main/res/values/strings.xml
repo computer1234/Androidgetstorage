@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My</string>
+    <string name="show_less">Show less</string>
+<string name="show_more">Show more</string>
+</resources>
